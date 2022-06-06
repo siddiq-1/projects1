@@ -1,2 +1,2 @@
 This is utility file for index.txt
-changed
+version 3
